@@ -21,16 +21,27 @@ class PaginationButton extends Component {
     }
 
     return (
-      <Pagination
-        className='pagination justify-content-end m-4'
-        aria-label='Page navigation example'
-      >
-        {this.renderActionButton(previousBtn)}
+      <div className='d-flex container-fluid'>
+        <div className='d-flex justify-content-start container-fluid pb-0 mb-0'>
+          Copyright 2020 by
+          <a
+            href='https://github.com/Diko99/crudEa'
+            style={{ color: 'yellow', textDecoration: 'none' }}
+          >
+            Diko Mahendra
+          </a>
+        </div>
+        <Pagination
+          className='d-flex justify-content-end container-fluid pb-0 mb-0'
+          aria-label='Page navigation example'
+        >
+          {this.renderActionButton(previousBtn)}
 
-        {this.renderPaginationButton()}
+          {this.renderPaginationButton()}
 
-        {this.renderActionButton(nextBtn)}
-      </Pagination>
+          {this.renderActionButton(nextBtn)}
+        </Pagination>
+      </div>
     )
   }
 

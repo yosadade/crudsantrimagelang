@@ -4,7 +4,6 @@ import MenuBar from './components/navbar'
 import Contents from './components/contents'
 import PaginationButton from './components/pagination'
 import axios from 'axios'
-import { Tooltip } from 'reactstrap'
 
 class App extends Component {
   constructor (props) {
@@ -193,7 +192,7 @@ class App extends Component {
 
     return (
       <div
-        className='bg-info text-light'
+        className='bg-info text-light pt-2 px-2'
         style={{ minHeight: '100vh', overflow: 'hidden' }}
       >
         <Header />
@@ -225,9 +224,9 @@ class App extends Component {
           onNextPage={onNextPage}
         />
 
-        <div className='ml-3 mt-3'>
-          Copyright 2020 <a href='https://github.com/Diko99/crudEa' style={{ color: 'red', textDecoration: 'none' }}>Diko Mahendra</a>
-        </div>
+        {/* <div className='ml-3 mt-3'>
+          Copyright 2020 by <a href='https://github.com/Diko99/crudEa' style={{ color: 'yellow', textDecoration: 'none' }}>Diko Mahendra</a>
+        </div> */}
       </div>
     )
   }

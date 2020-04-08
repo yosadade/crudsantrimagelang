@@ -3,14 +3,14 @@ import React from 'react'
 const Header = () => {
   return (
     <div
-      className='container-fluid p-4'
+      className='container-fluid'
     >
       <div
-        className='bg-info border border-light rounded p-4'
+        className='bg-info border border-light rounded p-1 py-0'
       >
-        <h1 className='display-4'>
+        <h5 className='display-4'>
           Daftar Santri QODR Magelang
-        </h1>
+        </h5>
 
         <h5>
           Tahun Ajaran 2020/2021

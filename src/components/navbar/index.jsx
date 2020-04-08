@@ -46,7 +46,7 @@ class MenuBar extends Component {
     ]
 
     return (
-      <div className='container-fluid p-4'>
+      <div className='container-fluid'>
         <Navbar
           color='light'
           light
