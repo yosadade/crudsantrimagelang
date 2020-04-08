@@ -30,7 +30,7 @@ class App extends Component {
   }
 
   onGetDataSantri = () => {
-    axios.get('http://localhost:4000/posts?_sort=id&_order=desc')
+    axios.get('https://github.com/yosadade/crudsantrimagelang/blob/master/db.json_sort=id&_order=desc')
       .then((result) => {
         this.setState({
           dataSantri: result.data
