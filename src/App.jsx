@@ -4,6 +4,7 @@ import MenuBar from './components/navbar'
 import Contents from './components/contents'
 import PaginationButton from './components/pagination'
 import axios from 'axios'
+import { Tooltip } from 'reactstrap'
 
 class App extends Component {
   constructor (props) {
@@ -41,8 +42,8 @@ class App extends Component {
   }
 
   onHandleInput = (event) => {
-    NewPostDataSantri[event.target.name] = event.target.value
     const NewPostDataSantri = { ...this.state.postDataSantri }
+    NewPostDataSantri[event.target.name] = event.target.value
     const timeid = new Date().getTime()
     if (!this.state.isUpdate) {
       NewPostDataSantri.id = timeid
@@ -192,7 +193,7 @@ class App extends Component {
 
     return (
       <div
-        className='bg-info text-light pt-2 px-2'
+        className='bg-info text-light'
         style={{ minHeight: '100vh', overflow: 'hidden' }}
       >
         <Header />

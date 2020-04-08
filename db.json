@@ -41,109 +41,29 @@
       "studyProgram": "dev"
     },
     {
-      "id": 1585099252161,
-      "name": "tsabit",
-      "studyProgram": "dev"
+      "id": 1586315693081,
+      "name": "Albertus",
+      "studyProgram": "Frontend Developer"
     },
     {
-      "id": 1585099273189,
-      "name": "hakim",
-      "studyProgram": "dev"
+      "id": 1586315703331,
+      "name": "Gabriel",
+      "studyProgram": "Frontend Developer"
     },
     {
-      "id": 1585099320502,
-      "name": "alvin",
-      "studyProgram": "dev"
+      "id": 1586315728374,
+      "name": "Moses",
+      "studyProgram": "Backend Developer"
     },
     {
-      "id": 1585099327599,
-      "name": "ali",
-      "studyProgram": "dev"
+      "id": 1586315772038,
+      "name": "Isac",
+      "studyProgram": "Mobile Developer"
     },
     {
-      "id": 1585099333964,
-      "name": "ahmad",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585099339683,
-      "name": "eko",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585561161710,
-      "name": "miqdad",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585561275746,
-      "name": "miko",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585561357067,
-      "name": "ciko",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585561375555,
-      "name": "santri 01",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585621612447,
-      "name": "santri 02",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585622202722,
-      "name": "santri 03",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585882874679,
-      "name": "santri 04",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585883427820,
-      "name": "santri 05",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585895790059,
-      "name": "santri 06",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585896047349,
-      "name": "santri 07",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585896058950,
-      "name": "santri 08",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585963172393,
-      "name": "santri 09",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585967636904,
-      "name": "santri 10",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585968104821,
-      "name": "santri 11",
-      "studyProgram": "dev"
-    },
-    {
-      "id": 1585971800095,
-      "name": "santri 12",
-      "studyProgram": "deve"
+      "id": 1586315795190,
+      "name": "Andreas",
+      "studyProgram": "Mobile Developer"
     }
   ]
 }
