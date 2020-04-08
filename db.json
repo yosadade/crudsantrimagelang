@@ -1,0 +1,149 @@
+{
+  "posts": [
+    {
+      "id": 1585099188126,
+      "name": "umar",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099195803,
+      "name": "esa",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099202828,
+      "name": "adil",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099214996,
+      "name": "abim",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099220982,
+      "name": "fatkur",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099227619,
+      "name": "rijal",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099233718,
+      "name": "farhan",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099240668,
+      "name": "suraji",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099252161,
+      "name": "tsabit",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099273189,
+      "name": "hakim",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099320502,
+      "name": "alvin",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099327599,
+      "name": "ali",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099333964,
+      "name": "ahmad",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585099339683,
+      "name": "eko",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585561161710,
+      "name": "miqdad",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585561275746,
+      "name": "miko",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585561357067,
+      "name": "ciko",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585561375555,
+      "name": "santri 01",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585621612447,
+      "name": "santri 02",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585622202722,
+      "name": "santri 03",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585882874679,
+      "name": "santri 04",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585883427820,
+      "name": "santri 05",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585895790059,
+      "name": "santri 06",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585896047349,
+      "name": "santri 07",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585896058950,
+      "name": "santri 08",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585963172393,
+      "name": "santri 09",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585967636904,
+      "name": "santri 10",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585968104821,
+      "name": "santri 11",
+      "studyProgram": "dev"
+    },
+    {
+      "id": 1585971800095,
+      "name": "santri 12",
+      "studyProgram": "deve"
+    }
+  ]
+}
