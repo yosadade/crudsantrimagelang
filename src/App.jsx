@@ -30,7 +30,7 @@ class App extends Component {
   }
 
   onGetDataSantri = () => {
-    axios.get('https://my-json-server.typicode.com/yosadade/crudsantrimagelang/posts_sort=id&_order=desc')
+    axios.get('https://my-json-server.typicode.com/yosadade/crudsantrimagelang/posts?_sort=id&_order=desc')
       .then((result) => {
         this.setState({
           dataSantri: result.data
@@ -41,8 +41,8 @@ class App extends Component {
   }
 
   onHandleInput = (event) => {
-    const NewPostDataSantri = { ...this.state.postDataSantri }
     NewPostDataSantri[event.target.name] = event.target.value
+    const NewPostDataSantri = { ...this.state.postDataSantri }
     const timeid = new Date().getTime()
     if (!this.state.isUpdate) {
       NewPostDataSantri.id = timeid
@@ -223,10 +223,6 @@ class App extends Component {
           onPreviousPage={onPreviousPage}
           onNextPage={onNextPage}
         />
-
-        {/* <div className='ml-3 mt-3'>
-          Copyright 2020 by <a href='https://github.com/Diko99/crudEa' style={{ color: 'yellow', textDecoration: 'none' }}>Diko Mahendra</a>
-        </div> */}
       </div>
     )
   }
